@@ -3020,6 +3020,7 @@ CONFIG_ZSMALLOC=y
 # CONFIG_FB_SM7XX is not set
 # CONFIG_BCM_WIMAX is not set
 # CONFIG_FT1000 is not set
+FB_MSM_MDSS_MDP3_KCAL_CTRL=y
 
 #
 # Speakup console speech
