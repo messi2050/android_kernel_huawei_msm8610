@@ -128,7 +128,7 @@ static char *get_bt_fm_device_name(void)
     /* lookup bt_device_model in bt_device_array[] */
     for(i = 0; i < arry_size; i++)
     {
-        if(0 == strncmp(bt_fm_chip_type,fm_device_array[i].chip_type,sizeof(fm_device_array[i].chip_type)))
+        if(0 == strncmp(bt_fm_chip_type,fm_device_array[i].chip_type,strlen(fm_device_array[i].chip_type)))
         {
             break;
         }
