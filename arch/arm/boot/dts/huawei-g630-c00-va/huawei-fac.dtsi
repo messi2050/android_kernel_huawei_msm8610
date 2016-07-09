@@ -1,0 +1,9 @@
+ / {
+        huawei_fac_info {
+                  compatible = "huawei,hw_fac_info";
+                  fac,product_name = "H30_C00";
+                  fac,hardware_ver = "HS1G630M_VERA";
+		  fac,software_ver = "MSM8x12_H30_C00_va";
+                  status = "ok";
+        };
+};

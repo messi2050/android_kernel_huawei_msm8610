@@ -1,0 +1,4 @@
+/include/ "tianma-hx8389b-5p5-qhd-video.dtsi"
+/include/ "boe-nt35517-5p5-qhd-video.dtsi"
+/include/ "auo-nt35517-5p5-qhd-video.dtsi"
+/include/ "default-lcd.dtsi"
